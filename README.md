@@ -1,5 +1,3 @@
-# PowerBI-Sales-Dashboard
-A Power BI mini project analyzing sales performance by region, category, and profit trends.
 # Power BI Sales Overview Dashboard
 
 This Power BI mini project analyzes sales data to provide insights into:
